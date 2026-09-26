@@ -1,27 +1,28 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:120458,45:4c1d95,100:7c3aed&text=HAASHINI%20D%20V&fontColor=ffffff&fontSize=44&fontAlignY=35&desc=Electronics%20%26%20Communication%20Engineering%20Student&descAlignY=57&descSize=17&animation=fadeIn" alt="Haashini D V — Electronics and Communication Engineering Student" />
+# HAASHINI D V
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=B794F4&center=true&vCenter=true&width=760&lines=ECE+STUDENT;EMBEDDED+SYSTEMS;DIGITAL+ELECTRONICS;HARDWARE+ENGINEERING;DIGITAL+DESIGN;BUILDING+PRACTICAL+SYSTEMS" alt="Typing headline" />
+### Electronics & Communication Engineering Student
 
-<br />
+**Embedded Systems • Digital Electronics • Hardware Engineering • Digital Design**
 
-![Electronics & Communication Engineering](https://img.shields.io/badge/Electronics_%26_Communication-Engineering-5B21B6?style=for-the-badge&logo=circuitverse&logoColor=white)
-![Embedded Systems](https://img.shields.io/badge/Embedded-Systems-4338CA?style=for-the-badge&logo=arduino&logoColor=white)
-![Digital Electronics](https://img.shields.io/badge/Digital-Electronics-6D28D9?style=for-the-badge&logoColor=white)
-![Hardware Engineering](https://img.shields.io/badge/Hardware-Engineering-312E81?style=for-the-badge&logoColor=white)
+![ECE](https://img.shields.io/badge/ECE-Engineering-5B21B6?style=for-the-badge)
+![Embedded Systems](https://img.shields.io/badge/Embedded-Systems-4338CA?style=for-the-badge)
+![Digital Electronics](https://img.shields.io/badge/Digital-Electronics-6D28D9?style=for-the-badge)
+![Hardware](https://img.shields.io/badge/Hardware-Engineering-312E81?style=for-the-badge)
 
-<br />
+**India • Tamil Nadu**
 
-[![Location](https://img.shields.io/badge/India-Tamil_Nadu-4C1D95?style=flat-square&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Tamil+Nadu,+India)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Haashini_D_V-4F46E5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haashini-d-v-23595737b/)
 [![GitHub](https://img.shields.io/badge/GitHub-haashini2504-1E1B4B?style=flat-square&logo=github&logoColor=white)](https://github.com/haashini2504)
 
-![Profile views](https://komarev.com/ghpvc/?username=haashini2504&label=PROFILE+VIEWS&color=7c3aed&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=haashini2504&label=PROFILE+VIEWS&color=7c3aed&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/haashini2504?label=FOLLOWERS&style=flat-square&color=6d28d9&labelColor=1e1b4b)
 ![Stars](https://img.shields.io/github/stars/haashini2504?affiliations=OWNER&label=TOTAL+STARS&style=flat-square&color=4f46e5&labelColor=1e1b4b)
 
 </div>
+
+---
 
 ## About
 
@@ -36,11 +37,16 @@ My aim is to build carefully, test what I make, and grow through projects—not 
 - Embedded systems, hardware engineering, electronics engineering, digital design, and IoT / embedded internships
 - Student engineering collaborations, hackathons, and practical technical projects
 
+---
+
 ## Technical Stack
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,py,java&theme=dark" alt="C, C++, Python, and Java" />
+![C](https://img.shields.io/badge/C-Programming-5B21B6?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-Programming-4338CA?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Programming-6D28D9?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Programming-312E81?style=flat-square&logo=openjdk&logoColor=white)
 
 ### Embedded & Hardware
 
@@ -50,7 +56,7 @@ My aim is to build carefully, test what I make, and grow through projects—not 
 ![Sensors](https://img.shields.io/badge/Sensor_Integration-Developing-6D28D9?style=flat-square)
 ![Embedded C](https://img.shields.io/badge/Embedded_C-Developing-4F46E5?style=flat-square)
 ![UART](https://img.shields.io/badge/UART-Learning-312E81?style=flat-square)
-![I²C](https://img.shields.io/badge/I%C2%B2C-Learning-312E81?style=flat-square)
+![I2C](https://img.shields.io/badge/I2C-Learning-312E81?style=flat-square)
 ![SPI](https://img.shields.io/badge/SPI-Learning-312E81?style=flat-square)
 
 ### Digital Electronics
@@ -64,22 +70,28 @@ My aim is to build carefully, test what I make, and grow through projects—not 
 
 ### Hardware Design — Learning & Exploring
 
-<img src="https://skillicons.dev/icons?i=kicad&theme=dark" alt="KiCad" />
-
+![KiCad](https://img.shields.io/badge/KiCad-PCB_Design-6D28D9?style=flat-square&logo=kicad&logoColor=white)
 ![PCB Design](https://img.shields.io/badge/PCB_Design-Learning-6D28D9?style=flat-square)
 ![FPGA](https://img.shields.io/badge/FPGA-Exploring-4F46E5?style=flat-square)
 ![Verilog](https://img.shields.io/badge/Verilog-Exploring-4338CA?style=flat-square)
 
 ### Software & Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,react,vite&theme=dark" alt="Git, GitHub, VS Code, Node.js, React, and Vite" />
+![Git](https://img.shields.io/badge/Git-Version_Control-181717?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Version_Control-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-Development-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-Development-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-Development-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-Development-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 ### AI / Engineering Applications
 
 ![Python](https://img.shields.io/badge/Python-Engineering_Applications-4F46E5?style=flat-square&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-Fundamentals-6D28D9?style=flat-square)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-Exploring-5B21B6?style=flat-square)
-![AI-assisted Engineering](https://img.shields.io/badge/AI--assisted-Engineering_Applications-312E81?style=flat-square)
+![AI Engineering](https://img.shields.io/badge/AI--assisted-Engineering_Applications-312E81?style=flat-square)
+
+---
 
 ## Engineering & AI/ML Expertise
 
@@ -97,14 +109,20 @@ My aim is to build carefully, test what I make, and grow through projects—not 
 | Web Development | Working Knowledge | React/Vite interfaces for selected software projects |
 | Git / GitHub | Working Knowledge | Version control, documentation, and project collaboration |
 
+---
+
 ## Featured Projects
 
 <details>
 <summary><strong>BELTCORE — Joint-Centric Multimodal Degradation Intelligence for Conveyor Belt Splices</strong></summary>
 
-<br />
+### Overview
 
-BELTCORE is a **student prototype / academic engineering project** exploring condition-to-action monitoring for conveyor-belt splices. The concept brings together RGB vision, vibration, acoustic and temperature / thermal sensing, plus speed and load context to support joint identification, a Joint Health Index, and a Digital Joint Passport. It is intended as an experimental edge-processing system—not an industrial deployment.
+BELTCORE is a **student prototype / academic engineering project** exploring condition-to-action monitoring for conveyor-belt splices.
+
+The concept brings together RGB vision, vibration, acoustic and temperature / thermal sensing, plus speed and load context to support joint identification, a Joint Health Index, and a Digital Joint Passport.
+
+It is intended as an experimental edge-processing system—not an industrial deployment.
 
 | Category | Details |
 |---|---|
@@ -119,12 +137,16 @@ The engineering direction is joint-centric rather than generic belt monitoring: 
 
 </details>
 
+---
+
 <details>
 <summary><strong>4-Bit ALU — Digital Logic Design</strong></summary>
 
-<br />
+### Overview
 
-An academic digital-logic project exploring a 4-bit arithmetic logic unit through full adders, XOR gates, AND / OR logic, and multiplexers. The design focuses on addition, subtraction, operation selection, circuit simulation, and basic digital-logic verification in CircuitVerse.
+An academic digital-logic project exploring a 4-bit arithmetic logic unit through full adders, XOR gates, AND / OR logic, and multiplexers.
+
+The design focuses on addition, subtraction, operation selection, circuit simulation, and basic digital-logic verification in CircuitVerse.
 
 | Category | Details |
 |---|---|
@@ -139,12 +161,16 @@ The project emphasizes component-level reasoning: selecting an operation, tracin
 
 </details>
 
+---
+
 <details>
 <summary><strong>Traffic Signal Simulation in C</strong></summary>
 
-<br />
+### Overview
 
-A C-based simulation of a manual traffic-signal system that uses a queue to model the number of vehicles. This is a compact programming project that applies control flow and basic data-structure ideas to a real-world traffic-management scenario.
+A C-based simulation of a manual traffic-signal system that uses a queue to model the number of vehicles.
+
+This is a compact programming project that applies control flow and basic data-structure ideas to a real-world traffic-management scenario.
 
 | Category | Details |
 |---|---|
@@ -157,12 +183,16 @@ A C-based simulation of a manual traffic-signal system that uses a queue to mode
 
 </details>
 
+---
+
 <details>
 <summary><strong>Resume → Role</strong></summary>
 
-<br />
+### Overview
 
-Resume → Role is a software engineering project distinct from my primary ECE direction. It explores resume and job-description analysis, candidate–role compatibility, skill-gap feedback, personalized recommendations, and role-aware dashboards.
+Resume → Role is a software engineering project distinct from my primary ECE direction.
+
+It explores resume and job-description analysis, candidate–role compatibility, skill-gap feedback, personalized recommendations, and role-aware dashboards.
 
 | Category | Details |
 |---|---|
@@ -173,9 +203,13 @@ Resume → Role is a software engineering project distinct from my primary ECE d
 | Impact | Explores clearer role matching and career-roadmap guidance for candidates and students |
 | Repository | [View repository](https://github.com/haashini2504/RESUME-TO-ROLE) |
 
-The repository contains a frontend and backend workflow, with persisted roles and resume records. It represents an adjacent software-building interest while my core direction remains embedded and hardware engineering.
+The repository contains a frontend and backend workflow, with persisted roles and resume records.
+
+It represents an adjacent software-building interest while my core direction remains embedded and hardware engineering.
 
 </details>
+
+---
 
 ## Experience
 
@@ -189,59 +223,48 @@ The repository contains a frontend and backend workflow, with persisted roles an
 | Software Projects | Building interfaces and application logic where software helps solve or communicate engineering problems |
 | Self-Directed Learning | Embedded C/C++, PCB design, communication protocols, and future FPGA / Verilog exploration |
 
-## Achievements
+---
 
-<div align="center">
+## Achievements
 
 | Recognition | Details |
 |---|---|
 | Project Development | Building demonstrable student projects across digital logic, embedded systems, and software |
 | Engineering Portfolio | Maintaining public project repositories and documentation as projects evolve |
 
-</div>
+---
 
 ## Certifications
 
 I am prioritizing demonstrable engineering work and will add verified certifications here as they are completed.
 
-<!-- Add only verified certifications. Suggested format:
-### Provider
-[![Certification Name](https://img.shields.io/badge/Provider-Certification_Name-5B21B6?style=flat-square)](verification-link)
--->
+> Only verified certifications will be added here.
+
+---
 
 ## Coding & Engineering Profiles
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-haashini2504-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haashini2504)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Haashini_D_V-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haashini-d-v-23595737b/)
 
 </div>
 
-## GitHub Analytics
+---
+
+## GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=haashini2504&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=818CF8&text_color=E9D5FF&ring_color=7C3AED" alt="Haashini's GitHub statistics" />
-<img height="170" src="https://streak-stats.demolab.com?user=haashini2504&hide_border=true&background=0D1117&ring=A78BFA&fire=818CF8&currStreakLabel=E9D5FF&sideLabels=E9D5FF&dates=C4B5FD&stroke=312E81" alt="Haashini's contribution streak" />
+![GitHub Contributions](https://img.shields.io/badge/GitHub-Contributions-7C3AED?style=for-the-badge&logo=github&logoColor=white)
 
-<br />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haashini2504&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E9D5FF" alt="Top languages" />
+**Building projects • Learning continuously • Documenting progress**
 
 </div>
 
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=haashini2504&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub profile trophies" />
-
-</div>
-
-## Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=haashini2504&bg_color=0D1117&color=E9D5FF&line=8B5CF6&point=C4B5FD&area=true&area_color=4C1D95&hide_border=true" alt="GitHub contribution graph" />
+---
 
 ## Contribution Snake
 
@@ -251,7 +274,9 @@ I am prioritizing demonstrable engineering work and will add verified certificat
 
 </div>
 
-> The workflow in [`.github/workflows/snake.yml`](.github/workflows/snake.yml) generates this asset after it is added to the `haashini2504/haashini2504` profile repository and runs successfully.
+> The workflow in [`.github/workflows/snake.yml`](.github/workflows/snake.yml) generates this contribution animation.
+
+---
 
 ## Current Focus
 
@@ -282,10 +307,3 @@ Open To:
   - Electronics Internships
   - Digital Design Internships
   - Technical Collaborations
-```
-
-<div align="center">
-
-<sub>Designing, testing, and learning—one practical engineering system at a time.</sub>
-
-</div>
